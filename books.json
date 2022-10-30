@@ -1,25 +1,23 @@
-"Books:" {
-  [
-    {
-      "ISBN": "9781259872990",
-      "booksTitle": "Introduction to Operations Research",
-      "booksAuthor": ["Frederick S. Hillier", "Gerald J. Lieberman"],
-      "year": "2021",
-      "publisher": "McGraw Hill"
-    },
-    {
-      "ISBN": "9788121902816",
-      "booksTitle": "Operations Research",
-      "booksAuthor": ["Prem Kumar Gupta", "D. S. Hira"],
-      "year": "1976",
-      "publisher": "S. Chand Publishing"
-    },
-    {
-      "ISBN": "9781292264905",
-      "booksTitle": "Engineering Economy",
-      "booksAuthor": ["William G. Sullivan", "Elin M. Wicks", "C. Patrick Koelling"],
-      "year": "2019",
-      "publisher": "Pearson"
-    }
-  ]
-}
+[
+  {
+    "ISBN": "9781259872990",
+    "booksTitle": "Introduction to Operations Research",
+    "booksAuthor": ["Frederick S. Hillier", "Gerald J. Lieberman"],
+    "year": "2021",
+    "publisher": "McGraw Hill"
+  },
+  {
+    "ISBN": "9788121902816",
+    "booksTitle": "Operations Research",
+    "booksAuthor": ["Prem Kumar Gupta", "D. S. Hira"],
+    "year": "1976",
+    "publisher": "S. Chand Publishing"
+  },
+  {
+    "ISBN": "9781292264905",
+    "booksTitle": "Engineering Economy",
+    "booksAuthor": ["William G. Sullivan", "Elin M. Wicks", "C. Patrick Koelling"],
+    "year": "2019",
+    "publisher": "Pearson"
+  }
+]
